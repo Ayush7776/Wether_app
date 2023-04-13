@@ -1,0 +1,21 @@
+        cloud_pct.innerHTML = response.cloud_pct
+		temp.innerHTML = response.temp
+		feels_like.innerHTML = response.feels_like
+		humidity.innerHTML = response.humidity
+		min_temp.innerHTML = response.min_temp
+		max_temp.innerHTML = response.max_temp
+		wind_speed.innerHTML = response.wind_speed
+		wind_degrees.innerHTML = response.wind_degrees
+		sunrise.innerHTML = response.sunrise
+		sunset.innerHTML = response.sunset
+
+cloud_pct:100
+temp:7
+feels_like:6
+humidity:92
+min_temp:6
+max_temp:8
+wind_speed:2.57
+wind_degrees:280
+sunrise:1681133409
+sunset:1681181443
